@@ -1,13 +1,4 @@
-/* -------------------------------------------
-Name: Andre Luiz Valle Rosa
-Student number: 115997173
-Email: alvalle-rosa@myseneca.ca
-Section: IPC144 SLL
-Date: 20 OCT 2017
-----------------------------------------------
-Assignment: 1
-Milestone:  2
----------------------------------------------- */
+
 
 // Structure type Name declaration
 struct Name {
